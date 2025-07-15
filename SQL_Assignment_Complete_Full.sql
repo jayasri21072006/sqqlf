@@ -1,7 +1,7 @@
 
 -- SQL ASSIGNMENT SOLUTIONS
 -- Dataset: MavenMovies / Sakila
--- Author: ChatGPT
+
 
 -- -----------------------------
 -- SECTION 1: TABLE CREATION
